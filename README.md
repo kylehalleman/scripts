@@ -1,0 +1,2 @@
+# scripts
+Like kcd-scripts
